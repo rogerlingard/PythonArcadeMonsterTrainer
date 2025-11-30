@@ -10,9 +10,9 @@ The purpose of writing this software was to get a better idea of a game framewor
 # Development Environment
 * Visual Studio Code - 1.106.2
 * Pyhton - 3.9.13
- - Libraries
-    - Arcade - 3.0.2
-    - Random
+    *Libraries
+        * Arcade - 3.0.2
+        * Random
 * GitHub
 
 # Useful Websites
